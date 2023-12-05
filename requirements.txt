@@ -1,0 +1,5 @@
+nltk
+gradio
+pytube
+jiwer
+git+https://github.com/openai/whisper.git
